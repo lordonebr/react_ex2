@@ -1,0 +1,41 @@
+  .userMainText {
+    margin-left: 15px;
+  }
+
+  .userItem {
+    margin: 5px;
+    padding: 0px 15px 15px 15px;
+    background: lightblue;
+    border: 3px solid blue;
+    border-radius: 8px;
+    float: left;
+    color: blue;
+    min-width: 250px;
+  }
+
+  .tagUser {
+    font-weight: bolder;
+  }
+
+  .btnRemoveUser {
+    background: blue;
+    color: white;
+    font-size: 16px;
+  }
+
+  .btnRemoveUser:hover {
+    background: darkblue;
+  }
+
+  .btnBackUsers {
+    background: blue;
+    padding: 5px;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+  .btnBackUsers:hover {
+    background: darkblue;
+  }
